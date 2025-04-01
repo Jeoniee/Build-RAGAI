@@ -6,6 +6,8 @@
 [1주차] 심화과제 - MNIST 예측 모델에 deep learning techniques 적용하기
 
 
+
+
 # 🧠 Last Word Prediction with Transformer
 
 간단한 문장 데이터를 기반으로, Transformer 모델이 문장의 마지막 단어를 예측하도록 학습한 실험입니다.  
@@ -25,3 +27,7 @@ Self-Attention부터 Multi-Head Attention, Residual Connection, LayerNorm, Dropo
 Input → Embedding + Positional Encoding
       → [Transformer Layer × 5]
       → Linear(vocab_size) → Predicted token
+
+
+입력: "I love"
+모델 예측: "you"
