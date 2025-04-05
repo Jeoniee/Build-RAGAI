@@ -1,5 +1,8 @@
-# spartaAI
-항해99 AI 과제
+# Build-RAGAI
+Description
+
+This project seeks to teach you how to build Python applications with generative AI functionality by using the LangChain and Transformers libraries.
+
 
 [1주차] 기본과제 - MNIST를 분류 모델로 학습하기
 
