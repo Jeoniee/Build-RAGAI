@@ -8,7 +8,13 @@ This project seeks to teach you how to build Python applications with generative
 
 [1주차] 심화과제 - MNIST 예측 모델에 deep learning techniques 적용하기
 
+[2주차] 기본과제 - 주어진 문장에서 나올 다음 단어를 예측하는 모델 구현
 
+[2주차] 심화과제 - Multi-head Attention으로 감정 분석 모델 구현하기
+
+[3주차] 기본과제 - DistilBERT로 뉴스 기사 분류 모델 학습하기
+
+[3주차] 심화과제 - Pre-trained 모델로 효율적인 NLP 모델 학습하기
 
 
 # 🧠 Last Word Prediction with Transformer
