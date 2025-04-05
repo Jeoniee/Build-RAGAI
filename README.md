@@ -17,6 +17,9 @@ This project seeks to teach you how to build Python applications with generative
 [3주차] 심화과제 - Pre-trained 모델로 효율적인 NLP 모델 학습하기
 
 
+
+
+
 # 🧠 Last Word Prediction with Transformer
 
 간단한 문장 데이터를 기반으로, Transformer 모델이 문장의 마지막 단어를 예측하도록 학습한 실험입니다.  
@@ -32,6 +35,16 @@ Self-Attention부터 Multi-Head Attention, Residual Connection, LayerNorm, Dropo
 - Residual Connection + Layer Normalization + Dropout
 - 마지막 `[CLS]` 위치를 활용해 단어 분류
 
+
+Test Your First Notebook
+If you're totally new to building AI powered applications with access to external data, specifically retrieval augmented generation, check out the RAG Basics notebook. It's the most straightforward notebook, and its concepts are built upon in every other 'RAG' notebook.
+
+Google Colab
+Click the badge below to open the RAG Basics notebook in Colab.
+
+Open 'rag_basics.ipynb' In Colab
+
+
 ```text
 Input → Embedding + Positional Encoding
       → [Transformer Layer × 5]
@@ -40,3 +53,11 @@ Input → Embedding + Positional Encoding
 
 입력: "I love"
 모델 예측: "you"
+
+
+
+
+
+
+
+
